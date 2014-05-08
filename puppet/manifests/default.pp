@@ -35,9 +35,9 @@ class install_postgres {
     locale => 'en_US.UTF-8',
   }
 
-  pg_user {'wpduser':
+  pg_user {'vagrant':
       ensure     => present,
-      password   => 'password',
+      password   => 'vagrant',
       createdb   => true,
       createrole => true,
   }
