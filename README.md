@@ -13,7 +13,7 @@ You need to have installed the following:
 Clone this repo:
 
 ```
-git clone git@github.com:davidgrieser/link_manager.git
+git clone git@github.com:davidgrieser/base_vm.git
 ```
 
 ## Installation 
