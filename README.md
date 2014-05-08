@@ -5,7 +5,7 @@
 You need to have installed the following:
 
 * VirtualBox 4.2+
-* Vagrant 1.4.3
+* Vagrant 1.4+
 * Git 1.7+
 
 ## Pre-Install
@@ -30,7 +30,7 @@ cd /vagrant
 
 This should put you into the local directory that Vagrant was started in.
 
-* ruby 2.1.1p76
+* ruby 2.1.1
 * Rails 4.1.1
 
 To confirm this you can use the following commands:
